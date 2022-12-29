@@ -12,7 +12,8 @@ Output: Tỷ lệ phần trăm kết quả các nhân vật (nếu không có th
 
 ## Hướng dẫn train
 
-File train mô hình trong thu mục Model/Classify_Actor_Model.ipynb
+File train mô hình trong thu mục Model/Classify_Actor_Model.ipynb.
+
 Có giao diện demo kết quả trong thư mực UI và thư mục Server được xây dựng trên PyCharm.
 
 * Các thông tin chi tiết được trình bay trong file Report.doc
