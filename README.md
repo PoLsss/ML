@@ -1,5 +1,6 @@
 # Phân loại một số diễn viên nổi tiếng dựa trên hình ảnh
-Input: Hình ảnh chứa nhân vật cần phân loại
+Input: Hình ảnh chứa nhân vật cần phân loại.
+
 Output: Tỷ lệ phần trăm kết quả các nhân vật (nếu không có thì đầu ra là đoạn text).
 
 ## Mục đích
